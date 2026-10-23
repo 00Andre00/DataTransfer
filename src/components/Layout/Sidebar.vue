@@ -19,7 +19,7 @@
 
       <div class="px-4 pt-4 pb-3 border-b border-gray-100">
         <img :src="'/gore.png'" alt="Gobierno Regional Huánuco" class="w-full h-14 object-contain" />
-        <p class="text-[10px] text-center text-gray-500 mt-1">Sistema de Transferencia</p>
+        <p class="text-lg font-bold text-center text-gray-700 mt-1">Sistema de Transferencia</p>
       </div>
 
       <div v-if="currentUser" class="px-4 py-3 border-b border-gray-100 bg-gray-50">
